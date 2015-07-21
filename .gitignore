@@ -1,0 +1,4 @@
+libs/
+obj/
+java/
+src/jni.c
